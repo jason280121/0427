@@ -76,7 +76,48 @@
 #重設專案 git init
 #重開pycharm
 
-#Hello
+
+
+
+
+
+
+#13:42 git回復
+# git log --oneline
+
+#看到所有,參照紀錄
+#git reflog
+
+
+#硬回復
+# git reset *** --hard
+
+#軟回復
+#git reset *** --soft
+
+#一般回復
+#git reset ***
+
+
+#14:23 上傳 ，進入git hub
+# https://github.com/jason280121/0427.git
+
+#檢查
+#git status
+
+#連線
+# git remote add origin https://github.com/jason280121/0427.git
+
+#查詢
+#git remote
+
+#把專案推上去 , origin連線, master(分支)
+# git push origin master
+
+
+
+
+
 
 
 
