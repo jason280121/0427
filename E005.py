@@ -114,6 +114,18 @@
 #把專案推上去 , origin連線, master(分支)
 # git push origin master
 
+#15:08
+#push 上傳(上)
+
+#pull 下載(拉)
+
+#有專案時要用pull
+#git pull origin master
+
+
+
+#沒有專案時用clone(下載老師檔案)
+#git clone 下載網址
 
 
 
